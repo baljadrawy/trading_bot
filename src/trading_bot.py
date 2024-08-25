@@ -6,7 +6,7 @@ if __name__ == "__main__":
     binance_api_secret = "YOUR_BINANCE_API_SECRET"
     binance_client = BinanceClient(binance_api_key, binance_api_secret)
 
-    cmc_api_key = "YOUR_COINMARKETCAP_API_KEY"
+    cmc_api_key = "5851a35d-6b17-4d11-802d-f2a4d325fbbe"
     cmc_client = CoinMarketCapClient(cmc_api_key)
 
     db = TradingBotDatabase()
