@@ -12,7 +12,7 @@ A Python-based cryptocurrency trading bot that fetches historical data from Bina
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/trading-bot.git
+    git clone https://github.com/baljadrawy/trading_bot.git
     cd trading-bot
     ```
 
